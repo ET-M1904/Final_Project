@@ -1,4 +1,9 @@
 public interface menu {
-	public void orderMenu();
-	public void sort();
+	string orderMenu();
+	void Company();
+	void Platform();
+	void Genre():
+	void sort();
+	string continueShopping();
+	string Recipt();
 }
