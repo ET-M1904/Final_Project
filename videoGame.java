@@ -14,7 +14,6 @@ public class videoGame implements menu {
 		System.out.println("Enter the company the game is from: ");
 
 		this.companyList() = input.nextLine();
-
 		Company cp = new Company();
 		cp.sort();
 
